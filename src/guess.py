@@ -1,3 +1,8 @@
+"""
+This is the source code for the Python program.
+"""
+
+
 import random
 import sys
 import time
